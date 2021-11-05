@@ -1,2 +1,2 @@
 FROM nginx
-COPY index /usr/share/nginx/html
+COPY kiki /usr/share/nginx/html
